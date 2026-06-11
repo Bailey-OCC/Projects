@@ -1,0 +1,24 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
+
+.buyNow {
+    margin: 15px;
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+}
+
+.completePurchase {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 18px;
+}
