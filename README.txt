@@ -6,4 +6,14 @@ Overall look and feel, clean and professional, uses some css: This is the area I
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<strong>Project 1</strong> 
+Project 1 Self Assesment
+
+Form with all required inputs: index.php includes a form with the required inputs (Name, Income, and Deductions)
+
+PHP file validates inputs as correct types: The file validates to make sure the inputs are the correct types (String for name, Numeric values for the Income and Deductions
+
+uses html special characters before displaying the name: HTML special characters are properly displayed before the name
+
+Taxes calculated correct for EACH bracket and displayed: Taxes are calculated for each bracket and properly displayed. I also improved this by only displaying values for the brackets that matter; if the there is no calculation for a specific bracket, it is not displayed as it would just be a list of 0s like your example past that point
+
+Total taxes, taxes as % of gross income and taxes as % of adjusted gross income: All of these values are displayed after the bracket section
