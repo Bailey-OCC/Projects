@@ -17,3 +17,15 @@ uses html special characters before displaying the name: HTML special characters
 Taxes calculated correct for EACH bracket and displayed: Taxes are calculated for each bracket and properly displayed. I also improved this by only displaying values for the brackets that matter; if the there is no calculation for a specific bracket, it is not displayed as it would just be a list of 0s like your example past that point
 
 Total taxes, taxes as % of gross income and taxes as % of adjusted gross income: All of these values are displayed after the bracket section
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 3 Self Assessment
+
+I chose to use PHP to fulfill this project, as I feel more comfortable working in it than Node.
+
+I created a simple database consisting of two tables and populated those tables with some basic data.
+
+I created multiple PHP files to fulfill the CRUD requirements, allowing users to view the data of both tables and alter the data within those tables freely by adding, editing, and removing instances in the table.
+
+I fulfilled all of the project requirements to the best of my ability.
